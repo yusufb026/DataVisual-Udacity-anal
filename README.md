@@ -1,11 +1,5 @@
 # Become-A-Data-Analyst-Udacity
 
-This repository contains all of the code, projects and reports that I wrote as I pursued my [Udacity - Data Analyst NanoDegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
-
-I even wrote an article on LinkedIn about the same [Yes! Udacity's Data Analyst Nano Degree is done. 🎈](https://www.linkedin.com/pulse/yes-udacitys-data-analyst-nano-degree-done-rohan-sawant/), so here is an excerpt from it. 🙂
-
-<hr/>
-
 > ## Yes! Udacity's Data Analyst Nano Degree is done. 🎈
 
 I am extremely ecstatic to announce that I have graduated from Udacity’s Data Analyst Nano Degree Program!!! 🎊
